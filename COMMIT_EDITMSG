@@ -1,0 +1,6 @@
+Automate deployment fixes and guide users through configuration updates
+
+Adds a script to correct the build output and updates documentation for the Replit deployment configuration from static to autoscale.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 437f4dca-2a67-465e-972c-ab6500be7f77
